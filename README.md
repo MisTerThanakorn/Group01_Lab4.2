@@ -10,7 +10,7 @@ Working with Collaborators and Remote Repository
 รูปภาพ ![sasigan](https://github.com/MisTerThanakorn/Group01_Lab4.2/assets/137757344/d43c7446-23bd-4891-9ff3-a9170303aadb)
 
 สมาชิก กลุ่ม 1
-3.นายพรไพศาล ขันบำรุง 643020628-2 Secsion 3 Username " Tew56789 "
+3.นายพรไพศาล ขันบำรุง 643020628-2 Secsion 3 Username " Tew56789 "รูปภาพ
 
-รูปภาพ ![pornpaisan.k](./media/pornpaisan.jpg)
+![pornpaisan.k](./media/pornpaisan.jpg)
 

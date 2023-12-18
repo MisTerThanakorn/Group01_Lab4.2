@@ -28,5 +28,10 @@ Working with Collaborators and Remote Repository
 รูปภาพ
 <img src="https://github.com/MisTerThanakorn/Group01_Lab4.2/blob/main/media/Anantida.jpg" >  
 
+สมาชิก กลุ่ม 1
 
+4.นายฉัตรชัย ผากงคำ 633021123-6 Section 3 Username " Chatchai "
+
+รูปภาพ
+<img src="https://github.com/MisTerThanakorn/Group01_Lab4.2/blob/main/media/Chatchai.png" >
 

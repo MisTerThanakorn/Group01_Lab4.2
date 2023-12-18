@@ -26,6 +26,7 @@ Working with Collaborators and Remote Repository
 3.นางสาวอนันธิดา มาตะรักษ์ 643020655-9 Secsion 3 Username " Anantida "
 
 รูปภาพ
+<img src="https://github.com/MisTerThanakorn/Group01_Lab4.2/blob/main/media/Anantida.jpg" width="300">  
 
 
 

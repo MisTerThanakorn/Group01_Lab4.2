@@ -15,7 +15,9 @@ Working with Collaborators and Remote Repository
 
 สมาชิก กลุ่ม 1
 
-3.นายพรไพศาล ขันบำรุง 643020628-2 Secsion 3 Username " Tew56789 "รูปภาพ
+3.นายพรไพศาล ขันบำรุง 643020628-2 Secsion 3 Username " Tew56789 "
+
+รูปภาพ
 
 ![pornpaisan.k](./media/pornpaisan.jpg)
 

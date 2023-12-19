@@ -36,6 +36,7 @@ Working with Collaborators and Remote Repository
 
 <img src="https://github.com/MisTerThanakorn/Group01_Lab4.2/blob/main/media/Chatchai.png" >
 
+สมาชิก กลุ่ม 1
 
 5.นายจิราวัฒน์ ผิวพันคำ 643020599-3 Section 3 Username " jirawat "
 

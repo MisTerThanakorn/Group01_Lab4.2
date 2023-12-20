@@ -43,3 +43,12 @@ Working with Collaborators and Remote Repository
 รูปภาพ
 
 ![jirawat](./media/jirawat.jpg).
+
+สมาชิก กลุ่ม 1
+
+6. นางสาวปรียาภรณ์ สอนสา 643020623-2 Section 3 Username " preeyapornsonsa "
+
+รูปภาพ
+
+<img src="https://github.com/MisTerThanakorn/Group01_Lab4.2/blob/main/media/preeyaporn sonsa.jpg" >
+

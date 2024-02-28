@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.0 (Python 3.11.4 on win32)" generated="2024-02-28T21:06:03.018069" rpa="false" schemaversion="5">
+<suite id="s1" name="PrestaShop-develop" source="C:\CS66_1\SoftwareEngineering\Lab09\PrestaShop-develop">
+<suite id="s1-s1" name="Test-Sprint02" source="C:\CS66_1\SoftwareEngineering\Lab09\PrestaShop-develop\test-sprint02">
+<suite id="s1-s1-s1" name="testSprint2" source="C:\CS66_1\SoftwareEngineering\Lab09\PrestaShop-develop\test-sprint02\testSprint2.robot">
+<test id="s1-s1-s1-t1" name="Change languages on Login Page:" line="21">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2024-02-28T21:06:03.398572" level="INFO">Opening browser 'Chrome' to base url 'http://localhost:8080/th/'.</msg>
+<arg>http://localhost:8080/th/</arg>
+<arg>Chrome</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2024-02-28T21:06:03.398572" elapsed="2.787894"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2024-02-28T21:06:06.187473" elapsed="0.118495"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2024-02-28T21:06:06.306967" level="INFO">Clicking element 'class:user-info'.</msg>
+<arg>class:user-info</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2024-02-28T21:06:06.306967" elapsed="0.287228"/>
+</kw>
+<kw name="Element Text Should Be" owner="SeleniumLibrary">
+<msg time="2024-02-28T21:06:06.595202" level="INFO">Verifying element 'css=[for="field-email"]' contains exact text 'อีเมลล์'.</msg>
+<arg>css=[for="field-email"]</arg>
+<arg>อีเมลล์</arg>
+<doc>Verifies that element ``locator`` contains exact the text ``expected``.</doc>
+<status status="PASS" start="2024-02-28T21:06:06.595202" elapsed="0.023452"/>
+</kw>
+<kw name="Element Text Should Be" owner="SeleniumLibrary">
+<msg time="2024-02-28T21:06:06.619690" level="INFO">Verifying element 'css=[for="field-password"]' contains exact text 'รหัสผ่าน'.</msg>
+<arg>css=[for="field-password"]</arg>
+<arg>รหัสผ่าน</arg>
+<doc>Verifies that element ``locator`` contains exact the text ``expected``.</doc>
+<status status="PASS" start="2024-02-28T21:06:06.619176" elapsed="0.013406"/>
+</kw>
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2024-02-28T21:06:08.633761" level="INFO">Slept 2 seconds.</msg>
+<arg>2s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2024-02-28T21:06:06.633579" elapsed="2.000182"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2024-02-28T21:06:08.636255" level="INFO">Clicking element 'xpath=//a[@title="English (English)"]'.</msg>
+<arg>xpath=//a[@title="English (English)"]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2024-02-28T21:06:08.636255" elapsed="0.172389"/>
+</kw>
+<kw name="Element Text Should Be" owner="SeleniumLibrary">
+<msg time="2024-02-28T21:06:08.810639" level="INFO">Verifying element 'css=[for="field-email"]' contains exact text 'Email'.</msg>
+<arg>css=[for="field-email"]</arg>
+<arg>Email</arg>
+<doc>Verifies that element ``locator`` contains exact the text ``expected``.</doc>
+<status status="PASS" start="2024-02-28T21:06:08.809642" elapsed="0.015344"/>
+</kw>
+<kw name="Element Text Should Be" owner="SeleniumLibrary">
+<msg time="2024-02-28T21:06:08.825980" level="INFO">Verifying element 'css=[for="field-password"]' contains exact text 'Password'.</msg>
+<arg>css=[for="field-password"]</arg>
+<arg>Password</arg>
+<doc>Verifies that element ``locator`` contains exact the text ``expected``.</doc>
+<status status="PASS" start="2024-02-28T21:06:08.825980" elapsed="0.014457"/>
+</kw>
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2024-02-28T21:06:10.842377" level="INFO">Slept 2 seconds.</msg>
+<arg>2s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2024-02-28T21:06:08.841544" elapsed="2.000833"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2024-02-28T21:06:10.844052" level="INFO">Clicking element 'xpath=//a[@title="Bahasa Indonesia (Indonesian)"]'.</msg>
+<arg>xpath=//a[@title="Bahasa Indonesia (Indonesian)"]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2024-02-28T21:06:10.843929" elapsed="0.177981"/>
+</kw>
+<kw name="Element Text Should Be" owner="SeleniumLibrary">
+<msg time="2024-02-28T21:06:11.023531" level="INFO">Verifying element 'css=[for="field-email"]' contains exact text 'Surel'.</msg>
+<arg>css=[for="field-email"]</arg>
+<arg>Surel</arg>
+<doc>Verifies that element ``locator`` contains exact the text ``expected``.</doc>
+<status status="PASS" start="2024-02-28T21:06:11.023025" elapsed="0.015046"/>
+</kw>
+<kw name="Element Text Should Be" owner="SeleniumLibrary">
+<msg time="2024-02-28T21:06:11.039250" level="INFO">Verifying element 'css=[for="field-password"]' contains exact text 'Kata sandi'.</msg>
+<arg>css=[for="field-password"]</arg>
+<arg>Kata sandi</arg>
+<doc>Verifies that element ``locator`` contains exact the text ``expected``.</doc>
+<status status="PASS" start="2024-02-28T21:06:11.039250" elapsed="0.012267"/>
+</kw>
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2024-02-28T21:06:13.052521" level="INFO">Slept 2 seconds.</msg>
+<arg>2s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2024-02-28T21:06:11.052040" elapsed="2.001512"/>
+</kw>
+<status status="PASS" start="2024-02-28T21:06:03.397572" elapsed="9.657536"/>
+</test>
+<doc>Example test case for opening Chrome browser.</doc>
+<status status="PASS" start="2024-02-28T21:06:03.140663" elapsed="9.916585"/>
+</suite>
+<status status="PASS" start="2024-02-28T21:06:03.138566" elapsed="9.925351"/>
+</suite>
+<status status="PASS" start="2024-02-28T21:06:03.113484" elapsed="9.952204"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="PrestaShop-develop">PrestaShop-develop</stat>
+<stat pass="1" fail="0" skip="0" id="s1-s1" name="Test-Sprint02">PrestaShop-develop.Test-Sprint02</stat>
+<stat pass="1" fail="0" skip="0" id="s1-s1-s1" name="testSprint2">PrestaShop-develop.Test-Sprint02.testSprint2</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
